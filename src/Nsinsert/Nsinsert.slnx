@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Nsinsert.Tests/Nsinsert.Tests.csproj" Id="030a351a-5cdc-4dcf-8eda-4a63d1a150bd" />
+  <Project Path="Nsinsert/Nsinsert.csproj" />
+</Solution>
